@@ -1,50 +1,54 @@
-Hi, I'm Shivam! 👋
-AI/ML Student | Full-Stack Developer | Software Engineer
-🚀 Passionate about Artificial Intelligence, Machine Learning, and LLMs
-🎓 MCA AI/ML (IBM Integrated) Student at LPU
-🛠️ Building Tejas AI – A JARVIS-Inspired AI Desktop Assistant
+🦾 Shivam Sharma
+🎯 AI/ML Enthusiast | Full-Stack Developer | MCA (AI & ML, IBM Integrated)
+🔍 Solving real-world problems using AI & ML 🚀
+💡 Blending Full-Stack Dev with Machine Learning & Automation
 
-💡 About Me
-🔹 AI & ML Enthusiast: Working with NLP, Computer Vision, and Large Language Models.
-🔹 Full-Stack Developer: Experienced in Web & Software Development.
-🔹 Tech Explorer: Love researching & implementing cutting-edge AI innovations.
-
-🔥 AI/ML Projects
-🚀 Tejas AI - JARVIS-Inspired AI Desktop Assistant
-Features: Voice-controlled PC automation, NLP-based query handling, system control, LLM integration.
-
-Technologies: Python, FastAPI, Speech Recognition, OpenAI, LLaMA.
-
-📷 AI-Powered Face Recognition Attendance System
-Features: Real-time face detection & recognition for automatic attendance.
-
-Technologies: OpenCV, Deep Learning, Python.
-
-🎬 Movie Recommendation System (Netflix Simplified)
-Features: Recommends movies based on user preferences using collaborative filtering.
-
-Technologies: Pandas, Scikit-Learn, MySQL, Flask.
-
-🔧 Technologies & Skills
-⚡ AI/ML & Data Science:
+📌 About Me
+python
+Copy
+Edit
+class Shivam:
+    def __init__(self):
+        self.role = "AI/ML Developer & Full-Stack Engineer"
+        self.skills = ["Deep Learning", "NLP", "Computer Vision", "AI Automation", "MLOps"]
+        self.tech_stack = ["Python", "TensorFlow", "PyTorch", "FastAPI", "React", "Node.js"]
+        self.current_project = "Tejas AI - JARVIS-Like Desktop Assistant"
+    
+    def code(self):
+        return "Developing AI-powered software with optimized ML pipelines!"
+    
+me = Shivam()
+print(me.code())
+🚀 Tech Stack & Skills
+🤖 Artificial Intelligence & Machine Learning
 
 
 
 
 
 
-
-🌐 Full-Stack Development:
-
+🌐 Full-Stack Development
 
 
 
 
 
-⚙️ Tools & DevOps:
 
+🔥 AI-Powered Projects
+📌 Tejas AI (JARVIS-Style AI Assistant)
+🚀 Voice-controlled AI assistant powered by Speech Recognition, NLP, and LLMs
 
+📌 AI-Powered Face Recognition Attendance System
+📷 Deep Learning-based face detection & attendance management
 
-
+📌 LLM Chatbot with FastAPI & LangChain
+💬 AI chatbot that integrates LLaMA/OpenAI for smart responses
 
 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amritanshushivam&show_icons=true&theme=tokyonight" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshushivam&theme=tokyonight" width="400"/> </p>
+📬 Connect with Me
+
+
+✉️ Email: shivamsharma2002002@gmail.com
+
+🔥 "AI isn't the future, it's the present. I build, optimize, and automate with AI!" 🚀
