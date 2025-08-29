@@ -17,37 +17,13 @@
 
 ---
 
-<div align="center">
-  <h2>My Featured Projects</h2>
-</div>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; margin-bottom: 0;">
-  <tr>
-    <td width="50%" style="padding: 0;">
-      <a href="https://github.com/LovejeetM/Serena" target="_blank">
-        <img src="https://via.placeholder.com/600x300.png?text=Tejas+AI+Assistant" alt="Tejas AI Assistant Project" width="100%" style="display: block;">
-      </a>
-    </td>
-    <td width="50%" style="padding: 0;">
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/600x300.png?text=Project+Title+2" alt="Project 2" width="100%" style="display: block;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="padding: 0;">
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/600x300.png?text=Project+Title+3" alt="Project 3" width="100%">
-      </a>
-    </td>
-    <td width="50%" style="padding: 0;">
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/600x300.png?text=Project+Title+4" alt="Project 4" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/amritanshushivam?tab=repositories">
+    <img src="https://via.placeholder.com/1000x200.png?text=My+Tech+Stack" alt="My Tech Stack Banner">
+  </a>
+</p>
 
 ---
 
 <h2 style="font-family: 'Montserrat', sans-serif; color: #03A9F4;"> <img src="https://img.icons8.com/doodle/32/ffffff/about.png" align="center" style="filter: invert(100%);"> About Me</h2>
+<h2 style="font-family: 'Montserrat', sans-serif; color: #F44336;"> <img src="https://img.icons8.com/carbon-copy/32/ffffff/bar-chart.png" align="center" style="filter: invert(100%);"> GitHub Stats</h2>
