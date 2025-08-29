@@ -98,10 +98,7 @@
   </a>
 
   <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Amritanshushivam/Amritanshushivam/main/assets/hi-wave.gif" width="40px">
-  <h1>Hi, I'm Shivam!</h1>
-<br>
+  <br>
 
   <a href="https://github.com/amritanshushivam">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshushivam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
@@ -111,18 +108,11 @@
 ---
 
 <h2 style="font-family: 'Montserrat', sans-serif; color: #9C27B0;"> 📈 Contribution Graph</h2>
-  <h3 style="font-family: 'Ubuntu', sans-serif;">
-    <img src="https://img.icons8.com/fluent/24/ffffff/artificial-intelligence.png" align="center" style="filter: invert(100%);"> MCA (AI & ML) Integrated with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/80px-IBM_logo.svg.png" alt="IBM Logo" width="80" align="center"> |
-    <img src="https://img.icons8.com/ios-filled/24/ffffff/web-design.png" align="center" style="filter: invert(100%);"> Web & Software Developer |
-    <img src="https://img.icons8.com/nolan/24/ffffff/artificial-intelligence.png" align="center" style="filter: invert(100%);"> AI Enthusiast
-  </h3>
-</div>
 
 <p align="center">
-<a href="https://github.com/amritanshushivam">
+  <a href="https://github.com/amritanshushivam">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshushivam&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshushivam&theme=dark&hide_border=true" alt="Shivam's Streak Stats" />
-</a>
+  </a>
 </p>
 
 ---
@@ -170,4 +160,3 @@
 <p align="center" style="font-family: 'Montserrat', sans-serif; font-size: 1.3em; color: #FFEB3B;">
   ⚡ "Building AI with the precision of Batman <img src="https://img.icons8.com/fluent/24/ffffff/batman.png" align="center" style="filter: invert(100%);"> and the intelligence of Alfred <img src="https://img.icons8.com/color/24/ffffff/artificial-intelligence--v1.png" align="center">!" 🦇🤖
 </p>
-<h2 style="font-family: 'Montserrat', sans-serif; color: #03A9F4;"> <img src="https://img.icons8.com/doodle/32/ffffff/about.png" align="center" style="filter: invert(100%);"> About Me</h2>
