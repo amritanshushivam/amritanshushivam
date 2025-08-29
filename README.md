@@ -48,24 +48,24 @@
   <tr>
     <td width="50%" style="padding: 0;">
       <a href="https://github.com/amritanshushivam/Tejas-AI-Assistant" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Tejas+AI+Assistant" alt="Tejas AI Assistant Project" width="100%" style="display: block;">
+        <img src="./img/tejas_ai_card.png" alt="Tejas AI Assistant Project" width="100%" style="display: block;">
       </a>
     </td>
     <td width="50%" style="padding: 0;">
       <a href="https://github.com/amritanshushivam/Machine-learning" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Machine+Learning+Projects" alt="Machine Learning Project" width="100%" style="display: block;">
+        <img src="./img/machine_learning_card.png" alt="Machine Learning Project" width="100%" style="display: block;">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="padding: 0;">
       <a href="https://github.com/amritanshushivam/LPU-Summer-PEP-Python-Full-Stack" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=LPU+Python+Full+Stack" alt="LPU Python Full Stack Project" width="100%">
+        <img src="./img/lpu_pep_card.png" alt="LPU Python Full Stack Project" width="100%">
       </a>
     </td>
     <td width="50%" style="padding: 0;">
       <a href="https://github.com/amritanshushivam/PW-Skills-Full-Stack-Web-Development-1.0" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=PW+Skills+Web+Dev" alt="PW Skills Web Dev Project" width="100%">
+        <img src="./img/pw_skills_card.png" alt="PW Skills Web Dev Project" width="100%">
       </a>
     </td>
   </tr>
