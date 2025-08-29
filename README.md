@@ -36,7 +36,7 @@
     <img src="https://img.icons8.com/color/24/ffffff/briefcase.png" align="left" style="filter: invert(100%);"> Expertise in
     <img src="https://img.icons8.com/fluent/24/ffffff/cloud.png" align="center" style="filter: invert(100%);"> <b style="color: #00BCD4;">Cloud Computing</b>,
     <img src="https://img.icons8.com/nolan/24/ffffff/artificial-intelligence.png" align="center" style="filter: invert(100%);"> <b style="color: #FF9800;">AI Deployment</b>, &
-    <img src="https://img.icons8.com/material-outlined/24/ffffff/settings.png" align="center" style="filter: invert(100%);"> <b style="color: #4CAF50;">System Automation</b>.
+    <img src="https://img-icons8.com/material-outlined/24/ffffff/settings.png" align="center" style="filter: invert(100%);"> <b style="color: #4CAF50;">System Automation</b>.
   </li>
 </ul>
 
@@ -47,25 +47,25 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; margin-bottom: 0;">
   <tr>
     <td width="50%" style="padding: 0;">
-      <a href="https://github.com/amritanshushivam/Tejas-AI-Assistant" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Tejas+AI+Assistant" alt="Tejas AI Assistant Project" width="100%" style="display: block;">
+      <a href="https://github.com/amritanshushivam/PW-Skills-Full-Stack-Web-Development-1.0" target="_blank">
+        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=PW-Skills-Full-Stack-Web-Development" alt="PW Skills Full Stack Project" width="100%" style="display: block;">
       </a>
     </td>
     <td width="50%" style="padding: 0;">
-      <a href="https://github.com/your-project-2" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Your+Project+2" alt="Your Project 2" width="100%" style="display: block;">
+      <a href="https://github.com/amritanshushivam/LPU-Summer-PEP-Python-Full-Stack" target="_blank">
+        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=LPU-Python-Full-Stack" alt="LPU Python Full Stack Project" width="100%" style="display: block;">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="padding: 0;">
-      <a href="https://github.com/your-project-3" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Your+Project+3" alt="Your Project 3" width="100%">
+      <a href="https://github.com/amritanshushivam/Machine-learning" target="_blank">
+        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Machine-learning" alt="Machine Learning Project" width="100%">
       </a>
     </td>
     <td width="50%" style="padding: 0;">
-      <a href="https://github.com/your-project-4" target="_blank">
-        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Your+Project+4" alt="Your Project 4" width="100%">
+      <a href="https://github.com/amritanshushivam/Tejas" target="_blank">
+        <img src="https://via.placeholder.com/600x300/007bff/ffffff?text=Tejas-AI-Assistant" alt="Tejas AI Assistant" width="100%">
       </a>
     </td>
   </tr>
