@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Currently pursuing **MCA AI & ML (Integrated with IBM)** at LPU.
+- 🎓 Completed **BCA & MCA AI & ML (Integrated with IBM)** at LPU.
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**.
 - 💡 Exploring **Deep Learning, NLP, and MLOps** with enthusiasm.
 - 🚀 Crafting **Tejas AI** - an intelligent PC assistant inspired by J.A.R.V.I.S.
