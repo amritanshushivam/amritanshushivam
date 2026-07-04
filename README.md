@@ -86,11 +86,11 @@
 
 <p align="center">
   <a href="https://github.com/amritanshushivam">
-    <img src="https://github-readme-stats.vercel.app/api?username=amritanshushivam&show_icons=true&theme=dark&hide_border=true" alt="Shivam's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritanshushivam&show_icons=true&theme=dark&hide_border=true" alt="Shivam's GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/amritanshushivam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshushivam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritanshushivam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
