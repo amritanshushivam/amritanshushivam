@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🤖 BCA MCA (AI & ML) Integrated with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ibm/ibm-original.svg" alt="IBM Logo" width="55" align="center"> |
+  🤖 BCA MCA (AI & ML) Integrated with <svg align="center" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="50" height="20" style="fill: #052F61; vertical-align: middle;"><title>IBM</title><path d="M0 11.232h4.597V12.1H0zm5.82 0H18.18V12.1H5.82zM19.403 11.232H24V12.1h-4.597zM0 13.064h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 13.064H24v.868h-4.597zM0 7.568h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 7.568H24v.868h-4.597zM0 9.4h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 9.4H24v.868h-4.597zM0 2.072h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 2.072H24v.868h-4.597zM0 3.904h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 3.904H24v.868h-4.597zM0 21.06h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 21.06H24v.868h-4.597zM0 19.228h4.597v.868H0zm5.82 0H18.18v.868H5.82zM19.403 19.228H24v.868h-4.597zM0 14.896h2.15v.868H0zm3.253 0h1.344v.868H3.253zm2.567 0h3.693v.868H5.82zm4.646 0h3.693v.868h-3.693zm4.646 0h3.068v.868h-3.068zm4.12 0H24v.868h-1.767zM0 16.728h2.15v.868H0zm3.253 0h1.344v.868H3.253zm2.567 0h3.693v.868H5.82zm4.646 0h3.693v.868h-3.693zm4.646 0h3.068v.868h-3.068zm4.12 0H24v.868h-1.767zM0 .24h2.15v.868H0zm3.253 0h1.344v.868H3.253zm2.567 0h3.693v.868H5.82zm4.646 0h3.693v.868h-3.693zm4.646 0h3.068v.868h-3.068zm4.12 0H24v.868h-1.767zM0 5.736h2.15v.868H0zm3.253 0h1.344v.868H3.253zm2.567 0h3.693v.868H5.82zm4.646 0h3.693v.868h-3.693zm4.646 0h3.068v.868h-3.068zm4.12 0H24v.868h-1.767z"/></svg> |
   🌐 Web & Software Developer |
   🧠 AI Enthusiast
 </h3>
