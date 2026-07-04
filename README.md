@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🤖 BCA MCA (AI & ML) Integrated with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/80px-IBM_logo.svg.png" alt="IBM Logo" width="80" align="center"> |
+  🤖 BCA MCA (AI & ML) Integrated with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ibm/ibm-original.svg" alt="IBM Logo" width="55" align="center"> |
   🌐 Web & Software Developer |
   🧠 AI Enthusiast
 </h3>
